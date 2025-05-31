@@ -22,3 +22,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .vercel
+napp.js
+n2app.js
+google-sheet-uploader
